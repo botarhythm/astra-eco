@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra Eco"
+  short_description: "Astraで品質を保ちながら探索・再試行・過剰検証の無駄を減らす"
+  default_prompt: "$astra-eco を使い、必要な品質と検証を保ちながらこのタスクを効率よく完了してください。"
