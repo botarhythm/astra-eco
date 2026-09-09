@@ -1,0 +1,6 @@
+interface:
+  display_name: "Astra Eco Eval"
+  short_description: "明示的な依頼時だけ実測記録を集計し、Astra Ecoの改善候補を検討"
+  default_prompt: "$astra-eco-eval 指定した実測記録を評価し、根拠のある改善候補を最大1件示してください。"
+policy:
+  allow_implicit_invocation: false
